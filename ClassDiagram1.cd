@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WordAddIn1.DiagramController" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAEAAAAQAAAAEAIAgACCAAA=</HashCode>
+      <FileName>DiagramController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAddIn1.Ribbon1" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQAAIAACAAAAAAEICAAAGCAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Ribbon1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAddIn1.ThisRibbonCollection" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAddIn1.ThisAddIn" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAwAACQCBAAEQAgAYEAgFgAAAAAABAQAAgAIAAAACg=</HashCode>
+      <FileName>ThisAddIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAddIn1.Globals" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAddIn1.UmlDiagram" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABAAAYBAAAAAAAAAAAIAAAFBAAABQABIAAAAAA=</HashCode>
+      <FileName>UmlDiagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAddIn1.UserControl1" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAIAKAAAAWAAgCAAAACAAAAAQAAECAAAgAABAA=</HashCode>
+      <FileName>UserControl1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAddIn1.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAIAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAddIn1.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,17 @@
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.dll
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.pdb
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.dll.manifest
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.vsto
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.Properties.Resources.resources
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.Ribbon1.resources
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\obj\Debug\GenerateResource.read.1.tlog
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\obj\Debug\GenerateResource.write.1.tlog
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.dll
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.pdb
+c:\users\lee\documents\visual studio 2010\Projects\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.UserControl1.resources
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\WordAddIn1\WordAddIn1\bin\Debug\Newtonsoft.Json.xml
